@@ -6,7 +6,7 @@ import users from './users';
 const Home = () => {
   return (
     <div>
-      <h1>Home</h1>
+      <h1>User List</h1>
       <ul>
         {users.map(user => (
           <li key={user.id}>
