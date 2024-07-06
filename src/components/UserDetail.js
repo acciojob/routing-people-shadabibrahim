@@ -4,6 +4,7 @@ import React from 'react';
 const UserDetails = ({ user }) => {
   return (
     <div>
+    Loading...
       <h1>User Details</h1>
       <p>Name: {user.name}</p>
       <p>Username: {user.username}</p>

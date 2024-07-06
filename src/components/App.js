@@ -12,7 +12,7 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route
-            path="/user/:id"
+            path="/users/:id"
             element={<UserDetailsWrapper />}
           />
         </Routes>

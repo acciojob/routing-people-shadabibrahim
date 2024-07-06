@@ -1,7 +1,7 @@
 const users = [
     {
         id: 1,
-        name: 'John Doe',
+        name: 'Leanne Graham',
         username: 'johndoe',
         email: 'john.doe@example.com',
         phone: '123-456-7890',
